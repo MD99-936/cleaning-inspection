@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "512433186967",
+    "project_id": "cleaning-inspection-b9d8d",
+    "storage_bucket": "cleaning-inspection-b9d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512433186967:android:78f2bbc9dfb265d96161d2",
+        "android_client_info": {
+          "package_name": "com.example.cleaning_list_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512433186967-rlcfu5n90l3uu7fjtupsi9t2a1lm07ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChuaU4x2POIINTaV78Dhv-LLkZNcKpKHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512433186967-rlcfu5n90l3uu7fjtupsi9t2a1lm07ul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "512433186967-hfgemi3p4ummbiulqvh57eqm0drsuior.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bits.cleaninginspect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
